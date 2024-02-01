@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ayushtechie
+- 👋 Hi, I’m Ayush Tiwari
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me ... techie.ayushtiwari@gmail.com
-- 😄 Pronouns: Ayush Tiwari
+- 😄 Pronouns: Ayush
 - ⚡ Fun fact: How do you know a programmer.............
 
 <!---
